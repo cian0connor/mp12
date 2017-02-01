@@ -1,0 +1,16 @@
+    1  cd "C:\Users\t00196273\Desktop\wp12"
+    2  ls -a
+    3  git init
+    4  git add .
+    5  git commit -m "Initial Commit"
+    6  git remote add origin
+    7  git remote add origin "https://github.com/cian0connor/mp12"
+    8  git push -u origin master
+    9  git diff
+   10  git commit -m"Added Lab_4"
+   11  git add .
+   12  git commit -m"Added Lab_4"
+   13  git push
+   14  git status
+   15  history
+   16  history > wp12_hist
